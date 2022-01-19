@@ -2,6 +2,11 @@
    Project: PartyGuests
    Date: 11/30/18
 */
+/*
+My name is Dimitar and this is my party guest Project that I did for my CSIS 1400 class with my teammate Hector, this is a project about going to a party. It
+prompt you how many guests are attending this party, what they are going to bring to this party as well as remove guests from the party or add more guests to it as 
+well.
+*/
 import java.util.*;
 public class PartyGuests {
 
